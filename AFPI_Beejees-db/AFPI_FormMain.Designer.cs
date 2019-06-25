@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle76 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle77 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle78 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainProg));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -54,9 +54,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle19 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle20 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle21 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle22 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle23 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle24 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -108,17 +105,30 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle73 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle74 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle75 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle76 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle77 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle78 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tabMASTER = new MetroFramework.Controls.MetroTabControl();
-            this.tb26 = new System.Windows.Forms.TabPage();
-            this.panel25 = new System.Windows.Forms.Panel();
-            this.efx = new System.Windows.Forms.Label();
-            this.buttonPauseResume = new System.Windows.Forms.Button();
-            this.pb = new System.Windows.Forms.PictureBox();
-            this.labelCHECK = new System.Windows.Forms.Label();
-            this.startInitial = new System.Windows.Forms.Button();
-            this.comboCHECK = new MetroFramework.Controls.MetroComboBox();
-            this.label284 = new System.Windows.Forms.Label();
-            this.dgvCC = new MetroFramework.Controls.MetroGrid();
+            this.tb8 = new System.Windows.Forms.TabPage();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.buttonexprbf = new System.Windows.Forms.Button();
+            this.panelRBF = new System.Windows.Forms.Panel();
+            this.label246 = new System.Windows.Forms.Label();
+            this.label247 = new System.Windows.Forms.Label();
+            this.metroComboBoxRBF_BFI2 = new MetroFramework.Controls.MetroComboBox();
+            this.metroComboBoxRBF_RID2 = new MetroFramework.Controls.MetroComboBox();
+            this.label248 = new System.Windows.Forms.Label();
+            this.label249 = new System.Windows.Forms.Label();
+            this.buttonSAVERBF = new System.Windows.Forms.Button();
+            this.buttonDELRBF = new System.Windows.Forms.Button();
+            this.label83 = new System.Windows.Forms.Label();
+            this.label82 = new System.Windows.Forms.Label();
+            this.dgvRBF = new MetroFramework.Controls.MetroGrid();
+            this.metroComboBoxRBF_BFI = new MetroFramework.Controls.MetroComboBox();
+            this.metroComboBoxRBF_RID = new MetroFramework.Controls.MetroComboBox();
+            this.buttonRBF_Gen = new System.Windows.Forms.Button();
+            this.label66 = new System.Windows.Forms.Label();
+            this.label67 = new System.Windows.Forms.Label();
             this.tb1 = new System.Windows.Forms.TabPage();
             this.panel1 = new System.Windows.Forms.Panel();
             this.buttonexpmerc = new System.Windows.Forms.Button();
@@ -345,26 +355,6 @@
             this.label62 = new System.Windows.Forms.Label();
             this.textBoxDBFT_FTI = new System.Windows.Forms.TextBox();
             this.textBoxDBFT_FA = new System.Windows.Forms.TextBox();
-            this.tb8 = new System.Windows.Forms.TabPage();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.buttonexprbf = new System.Windows.Forms.Button();
-            this.panelRBF = new System.Windows.Forms.Panel();
-            this.label246 = new System.Windows.Forms.Label();
-            this.label247 = new System.Windows.Forms.Label();
-            this.metroComboBoxRBF_BFI2 = new MetroFramework.Controls.MetroComboBox();
-            this.metroComboBoxRBF_RID2 = new MetroFramework.Controls.MetroComboBox();
-            this.label248 = new System.Windows.Forms.Label();
-            this.label249 = new System.Windows.Forms.Label();
-            this.buttonSAVERBF = new System.Windows.Forms.Button();
-            this.buttonDELRBF = new System.Windows.Forms.Button();
-            this.label83 = new System.Windows.Forms.Label();
-            this.label82 = new System.Windows.Forms.Label();
-            this.dgvRBF = new MetroFramework.Controls.MetroGrid();
-            this.metroComboBoxRBF_BFI = new MetroFramework.Controls.MetroComboBox();
-            this.metroComboBoxRBF_RID = new MetroFramework.Controls.MetroComboBox();
-            this.buttonRBF_Gen = new System.Windows.Forms.Button();
-            this.label66 = new System.Windows.Forms.Label();
-            this.label67 = new System.Windows.Forms.Label();
             this.tb9 = new System.Windows.Forms.TabPage();
             this.panel8 = new System.Windows.Forms.Panel();
             this.buttonexprdf = new System.Windows.Forms.Button();
@@ -771,6 +761,16 @@
             this.buttonGENPD = new System.Windows.Forms.Button();
             this.label282 = new System.Windows.Forms.Label();
             this.label283 = new System.Windows.Forms.Label();
+            this.tb26 = new System.Windows.Forms.TabPage();
+            this.panel25 = new System.Windows.Forms.Panel();
+            this.efx = new System.Windows.Forms.Label();
+            this.buttonPauseResume = new System.Windows.Forms.Button();
+            this.pb = new System.Windows.Forms.PictureBox();
+            this.labelCHECK = new System.Windows.Forms.Label();
+            this.startInitial = new System.Windows.Forms.Button();
+            this.comboCHECK = new MetroFramework.Controls.MetroComboBox();
+            this.label284 = new System.Windows.Forms.Label();
+            this.dgvCC = new MetroFramework.Controls.MetroGrid();
             this.panelMenu = new System.Windows.Forms.Panel();
             this.buttonDFRT = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -814,10 +814,10 @@
             this.timerCHECK = new System.Windows.Forms.Timer(this.components);
             this.qm = new System.Windows.Forms.Button();
             this.tabMASTER.SuspendLayout();
-            this.tb26.SuspendLayout();
-            this.panel25.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pb)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvCC)).BeginInit();
+            this.tb8.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panelRBF.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvRBF)).BeginInit();
             this.tb1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panelMerc.SuspendLayout();
@@ -850,10 +850,6 @@
             this.panel6.SuspendLayout();
             this.panelDBFT.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDBFT)).BeginInit();
-            this.tb8.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panelRBF.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvRBF)).BeginInit();
             this.tb9.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panelRDF.SuspendLayout();
@@ -920,6 +916,10 @@
             this.panel24.SuspendLayout();
             this.panelPD.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPD)).BeginInit();
+            this.tb26.SuspendLayout();
+            this.panel25.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pb)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCC)).BeginInit();
             this.panelMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo)).BeginInit();
             this.panelMenu2.SuspendLayout();
@@ -970,171 +970,293 @@
             this.tabMASTER.UseSelectable = true;
             this.tabMASTER.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Mouse_Down);
             // 
-            // tb26
+            // tb8
             // 
-            this.tb26.Controls.Add(this.panel25);
-            this.tb26.Location = new System.Drawing.Point(4, 34);
-            this.tb26.Name = "tb26";
-            this.tb26.Size = new System.Drawing.Size(862, 565);
-            this.tb26.TabIndex = 27;
-            this.tb26.Text = "Config Checker";
+            this.tb8.Controls.Add(this.panel7);
+            this.tb8.Location = new System.Drawing.Point(4, 34);
+            this.tb8.Name = "tb8";
+            this.tb8.Size = new System.Drawing.Size(862, 565);
+            this.tb8.TabIndex = 7;
+            this.tb8.Text = "Route Based Fares";
             // 
-            // panel25
+            // panel7
             // 
-            this.panel25.BackColor = System.Drawing.SystemColors.Window;
-            this.panel25.Controls.Add(this.efx);
-            this.panel25.Controls.Add(this.buttonPauseResume);
-            this.panel25.Controls.Add(this.pb);
-            this.panel25.Controls.Add(this.labelCHECK);
-            this.panel25.Controls.Add(this.startInitial);
-            this.panel25.Controls.Add(this.comboCHECK);
-            this.panel25.Controls.Add(this.label284);
-            this.panel25.Controls.Add(this.dgvCC);
-            this.panel25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel25.Location = new System.Drawing.Point(0, 0);
-            this.panel25.Name = "panel25";
-            this.panel25.Size = new System.Drawing.Size(862, 565);
-            this.panel25.TabIndex = 84;
+            this.panel7.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel7.Controls.Add(this.buttonexprbf);
+            this.panel7.Controls.Add(this.panelRBF);
+            this.panel7.Controls.Add(this.buttonSAVERBF);
+            this.panel7.Controls.Add(this.buttonDELRBF);
+            this.panel7.Controls.Add(this.label83);
+            this.panel7.Controls.Add(this.label82);
+            this.panel7.Controls.Add(this.dgvRBF);
+            this.panel7.Controls.Add(this.metroComboBoxRBF_BFI);
+            this.panel7.Controls.Add(this.metroComboBoxRBF_RID);
+            this.panel7.Controls.Add(this.buttonRBF_Gen);
+            this.panel7.Controls.Add(this.label66);
+            this.panel7.Controls.Add(this.label67);
+            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel7.Location = new System.Drawing.Point(0, 0);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(862, 565);
+            this.panel7.TabIndex = 79;
             // 
-            // efx
+            // buttonexprbf
             // 
-            this.efx.AutoSize = true;
-            this.efx.Font = new System.Drawing.Font("Google Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.efx.Location = new System.Drawing.Point(11, 79);
-            this.efx.Name = "efx";
-            this.efx.Size = new System.Drawing.Size(169, 20);
-            this.efx.TabIndex = 221;
-            this.efx.Text = "Cheking Parameters...";
-            this.efx.Visible = false;
+            this.buttonexprbf.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.buttonexprbf.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.buttonexprbf.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonexprbf.Location = new System.Drawing.Point(711, 200);
+            this.buttonexprbf.Name = "buttonexprbf";
+            this.buttonexprbf.Size = new System.Drawing.Size(133, 45);
+            this.buttonexprbf.TabIndex = 137;
+            this.buttonexprbf.Text = "Export";
+            this.buttonexprbf.UseVisualStyleBackColor = false;
+            this.buttonexprbf.Click += new System.EventHandler(this.buttonexprbf_Click);
             // 
-            // buttonPauseResume
+            // panelRBF
             // 
-            this.buttonPauseResume.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.buttonPauseResume.BackgroundImage = global::AFPI_Beejees_db.Properties.Resources.pause;
-            this.buttonPauseResume.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.buttonPauseResume.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
-            this.buttonPauseResume.FlatAppearance.BorderSize = 0;
-            this.buttonPauseResume.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.buttonPauseResume.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonPauseResume.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonPauseResume.Location = new System.Drawing.Point(14, 216);
-            this.buttonPauseResume.Name = "buttonPauseResume";
-            this.buttonPauseResume.Size = new System.Drawing.Size(24, 25);
-            this.buttonPauseResume.TabIndex = 220;
-            this.buttonPauseResume.UseVisualStyleBackColor = true;
-            this.buttonPauseResume.Visible = false;
-            this.buttonPauseResume.Click += new System.EventHandler(this.buttonPauseResume_Click);
+            this.panelRBF.Controls.Add(this.label246);
+            this.panelRBF.Controls.Add(this.label247);
+            this.panelRBF.Controls.Add(this.metroComboBoxRBF_BFI2);
+            this.panelRBF.Controls.Add(this.metroComboBoxRBF_RID2);
+            this.panelRBF.Controls.Add(this.label248);
+            this.panelRBF.Controls.Add(this.label249);
+            this.panelRBF.Location = new System.Drawing.Point(29, 20);
+            this.panelRBF.Name = "panelRBF";
+            this.panelRBF.Size = new System.Drawing.Size(674, 117);
+            this.panelRBF.TabIndex = 83;
+            this.panelRBF.Visible = false;
             // 
-            // pb
+            // label246
             // 
-            this.pb.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pb.Image = global::AFPI_Beejees_db.Properties.Resources.giphy;
-            this.pb.Location = new System.Drawing.Point(178, 73);
-            this.pb.Name = "pb";
-            this.pb.Size = new System.Drawing.Size(31, 30);
-            this.pb.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pb.TabIndex = 219;
-            this.pb.TabStop = false;
-            this.pb.Visible = false;
+            this.label246.AutoSize = true;
+            this.label246.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label246.ForeColor = System.Drawing.Color.Red;
+            this.label246.Location = new System.Drawing.Point(640, 62);
+            this.label246.Name = "label246";
+            this.label246.Size = new System.Drawing.Size(15, 18);
+            this.label246.TabIndex = 125;
+            this.label246.Text = "*";
             // 
-            // labelCHECK
+            // label247
             // 
-            this.labelCHECK.AutoSize = true;
-            this.labelCHECK.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelCHECK.Location = new System.Drawing.Point(11, 102);
-            this.labelCHECK.Name = "labelCHECK";
-            this.labelCHECK.Size = new System.Drawing.Size(0, 14);
-            this.labelCHECK.TabIndex = 218;
+            this.label247.AutoSize = true;
+            this.label247.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label247.ForeColor = System.Drawing.Color.Red;
+            this.label247.Location = new System.Drawing.Point(640, 0);
+            this.label247.Name = "label247";
+            this.label247.Size = new System.Drawing.Size(15, 18);
+            this.label247.TabIndex = 124;
+            this.label247.Text = "*";
             // 
-            // startInitial
+            // metroComboBoxRBF_BFI2
             // 
-            this.startInitial.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.startInitial.BackgroundImage = global::AFPI_Beejees_db.Properties.Resources.RUN1;
-            this.startInitial.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.startInitial.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
-            this.startInitial.FlatAppearance.BorderSize = 0;
-            this.startInitial.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.startInitial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.startInitial.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startInitial.Location = new System.Drawing.Point(380, 31);
-            this.startInitial.Name = "startInitial";
-            this.startInitial.Size = new System.Drawing.Size(24, 25);
-            this.startInitial.TabIndex = 217;
-            this.startInitial.UseVisualStyleBackColor = true;
-            this.startInitial.Click += new System.EventHandler(this.button1_Click_2);
+            this.metroComboBoxRBF_BFI2.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
+            this.metroComboBoxRBF_BFI2.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.metroComboBoxRBF_BFI2.FormattingEnabled = true;
+            this.metroComboBoxRBF_BFI2.ItemHeight = 23;
+            this.metroComboBoxRBF_BFI2.Location = new System.Drawing.Point(0, 88);
+            this.metroComboBoxRBF_BFI2.Name = "metroComboBoxRBF_BFI2";
+            this.metroComboBoxRBF_BFI2.Size = new System.Drawing.Size(668, 29);
+            this.metroComboBoxRBF_BFI2.Sorted = true;
+            this.metroComboBoxRBF_BFI2.TabIndex = 123;
+            this.metroComboBoxRBF_BFI2.UseSelectable = true;
+            this.metroComboBoxRBF_BFI2.UseStyleColors = true;
+            this.metroComboBoxRBF_BFI2.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_BFI2_SelectedIndexChanged);
             // 
-            // comboCHECK
+            // metroComboBoxRBF_RID2
             // 
-            this.comboCHECK.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
-            this.comboCHECK.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.comboCHECK.FormattingEnabled = true;
-            this.comboCHECK.ItemHeight = 23;
-            this.comboCHECK.Location = new System.Drawing.Point(14, 43);
-            this.comboCHECK.Name = "comboCHECK";
-            this.comboCHECK.Size = new System.Drawing.Size(360, 29);
-            this.comboCHECK.Sorted = true;
-            this.comboCHECK.TabIndex = 150;
-            this.comboCHECK.UseSelectable = true;
-            this.comboCHECK.UseStyleColors = true;
+            this.metroComboBoxRBF_RID2.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
+            this.metroComboBoxRBF_RID2.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.metroComboBoxRBF_RID2.FormattingEnabled = true;
+            this.metroComboBoxRBF_RID2.ItemHeight = 23;
+            this.metroComboBoxRBF_RID2.Location = new System.Drawing.Point(0, 29);
+            this.metroComboBoxRBF_RID2.Name = "metroComboBoxRBF_RID2";
+            this.metroComboBoxRBF_RID2.Size = new System.Drawing.Size(668, 29);
+            this.metroComboBoxRBF_RID2.Sorted = true;
+            this.metroComboBoxRBF_RID2.TabIndex = 122;
+            this.metroComboBoxRBF_RID2.UseSelectable = true;
+            this.metroComboBoxRBF_RID2.UseStyleColors = true;
+            this.metroComboBoxRBF_RID2.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_RID2_SelectedIndexChanged);
             // 
-            // label284
+            // label248
             // 
-            this.label284.AutoSize = true;
-            this.label284.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label284.Location = new System.Drawing.Point(11, 26);
-            this.label284.Name = "label284";
-            this.label284.Size = new System.Drawing.Size(86, 14);
-            this.label284.TabIndex = 149;
-            this.label284.Text = "Select Route ID:";
+            this.label248.AutoSize = true;
+            this.label248.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label248.Location = new System.Drawing.Point(-5, 61);
+            this.label248.Name = "label248";
+            this.label248.Size = new System.Drawing.Size(99, 14);
+            this.label248.TabIndex = 121;
+            this.label248.Text = "New Base Fare ID:";
             // 
-            // dgvCC
+            // label249
             // 
-            this.dgvCC.AllowUserToAddRows = false;
-            this.dgvCC.AllowUserToResizeRows = false;
-            this.dgvCC.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
-            this.dgvCC.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.dgvCC.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.dgvCC.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
-            this.dgvCC.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle76.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle76.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
-            dataGridViewCellStyle76.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle76.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle76.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle76.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle76.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvCC.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle76;
-            this.dgvCC.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle77.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle77.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle77.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle77.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(136)))), ((int)(((byte)(136)))));
-            dataGridViewCellStyle77.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle77.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle77.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvCC.DefaultCellStyle = dataGridViewCellStyle77;
-            this.dgvCC.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgvCC.EnableHeadersVisualStyles = false;
-            this.dgvCC.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.dgvCC.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.dgvCC.Location = new System.Drawing.Point(0, 232);
-            this.dgvCC.MultiSelect = false;
-            this.dgvCC.Name = "dgvCC";
-            this.dgvCC.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle78.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle78.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
-            dataGridViewCellStyle78.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle78.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle78.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle78.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle78.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvCC.RowHeadersDefaultCellStyle = dataGridViewCellStyle78;
-            this.dgvCC.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            this.dgvCC.RowTemplate.Height = 33;
-            this.dgvCC.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvCC.Size = new System.Drawing.Size(862, 333);
-            this.dgvCC.TabIndex = 148;
-            this.dgvCC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCC_CellClick);
+            this.label249.AutoSize = true;
+            this.label249.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label249.Location = new System.Drawing.Point(-5, 0);
+            this.label249.Name = "label249";
+            this.label249.Size = new System.Drawing.Size(127, 14);
+            this.label249.TabIndex = 120;
+            this.label249.Text = "New Route Long Name:";
+            // 
+            // buttonSAVERBF
+            // 
+            this.buttonSAVERBF.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.buttonSAVERBF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonSAVERBF.Location = new System.Drawing.Point(544, 149);
+            this.buttonSAVERBF.Name = "buttonSAVERBF";
+            this.buttonSAVERBF.Size = new System.Drawing.Size(133, 45);
+            this.buttonSAVERBF.TabIndex = 136;
+            this.buttonSAVERBF.Text = "Save";
+            this.buttonSAVERBF.UseVisualStyleBackColor = true;
+            this.buttonSAVERBF.Visible = false;
+            this.buttonSAVERBF.Click += new System.EventHandler(this.buttonSAVERBF_Click);
+            // 
+            // buttonDELRBF
+            // 
+            this.buttonDELRBF.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.buttonDELRBF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonDELRBF.Location = new System.Drawing.Point(2, 206);
+            this.buttonDELRBF.Name = "buttonDELRBF";
+            this.buttonDELRBF.Size = new System.Drawing.Size(111, 41);
+            this.buttonDELRBF.TabIndex = 130;
+            this.buttonDELRBF.Text = "Delete";
+            this.buttonDELRBF.UseVisualStyleBackColor = true;
+            this.buttonDELRBF.Click += new System.EventHandler(this.buttonDELRBF_Click);
+            // 
+            // label83
+            // 
+            this.label83.AutoSize = true;
+            this.label83.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label83.ForeColor = System.Drawing.Color.Red;
+            this.label83.Location = new System.Drawing.Point(669, 82);
+            this.label83.Name = "label83";
+            this.label83.Size = new System.Drawing.Size(15, 18);
+            this.label83.TabIndex = 119;
+            this.label83.Text = "*";
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label82.ForeColor = System.Drawing.Color.Red;
+            this.label82.Location = new System.Drawing.Point(669, 20);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(15, 18);
+            this.label82.TabIndex = 118;
+            this.label82.Text = "*";
+            // 
+            // dgvRBF
+            // 
+            this.dgvRBF.AllowUserToAddRows = false;
+            this.dgvRBF.AllowUserToResizeRows = false;
+            this.dgvRBF.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvRBF.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgvRBF.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dgvRBF.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvRBF.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
+            this.dgvRBF.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            dataGridViewCellStyle22.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle22.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle22.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle22.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvRBF.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle22;
+            this.dgvRBF.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle23.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(136)))), ((int)(((byte)(136)))));
+            dataGridViewCellStyle23.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle23.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvRBF.DefaultCellStyle = dataGridViewCellStyle23;
+            this.dgvRBF.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dgvRBF.EnableHeadersVisualStyles = false;
+            this.dgvRBF.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            this.dgvRBF.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dgvRBF.Location = new System.Drawing.Point(0, 222);
+            this.dgvRBF.MultiSelect = false;
+            this.dgvRBF.Name = "dgvRBF";
+            this.dgvRBF.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            dataGridViewCellStyle24.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle24.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle24.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvRBF.RowHeadersDefaultCellStyle = dataGridViewCellStyle24;
+            this.dgvRBF.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            this.dgvRBF.RowTemplate.Height = 33;
+            this.dgvRBF.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvRBF.Size = new System.Drawing.Size(862, 343);
+            this.dgvRBF.TabIndex = 126;
+            this.dgvRBF.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRBF_CellDoubleClick);
+            // 
+            // metroComboBoxRBF_BFI
+            // 
+            this.metroComboBoxRBF_BFI.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
+            this.metroComboBoxRBF_BFI.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.metroComboBoxRBF_BFI.FormattingEnabled = true;
+            this.metroComboBoxRBF_BFI.ItemHeight = 23;
+            this.metroComboBoxRBF_BFI.Location = new System.Drawing.Point(29, 108);
+            this.metroComboBoxRBF_BFI.Name = "metroComboBoxRBF_BFI";
+            this.metroComboBoxRBF_BFI.Size = new System.Drawing.Size(668, 29);
+            this.metroComboBoxRBF_BFI.Sorted = true;
+            this.metroComboBoxRBF_BFI.TabIndex = 108;
+            this.metroComboBoxRBF_BFI.UseSelectable = true;
+            this.metroComboBoxRBF_BFI.UseStyleColors = true;
+            this.metroComboBoxRBF_BFI.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_BFI_SelectedIndexChanged);
+            // 
+            // metroComboBoxRBF_RID
+            // 
+            this.metroComboBoxRBF_RID.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
+            this.metroComboBoxRBF_RID.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.metroComboBoxRBF_RID.FormattingEnabled = true;
+            this.metroComboBoxRBF_RID.ItemHeight = 23;
+            this.metroComboBoxRBF_RID.Location = new System.Drawing.Point(29, 49);
+            this.metroComboBoxRBF_RID.Name = "metroComboBoxRBF_RID";
+            this.metroComboBoxRBF_RID.Size = new System.Drawing.Size(668, 29);
+            this.metroComboBoxRBF_RID.Sorted = true;
+            this.metroComboBoxRBF_RID.TabIndex = 107;
+            this.metroComboBoxRBF_RID.UseSelectable = true;
+            this.metroComboBoxRBF_RID.UseStyleColors = true;
+            this.metroComboBoxRBF_RID.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_RID_SelectedIndexChanged);
+            // 
+            // buttonRBF_Gen
+            // 
+            this.buttonRBF_Gen.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.buttonRBF_Gen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonRBF_Gen.Location = new System.Drawing.Point(683, 149);
+            this.buttonRBF_Gen.Name = "buttonRBF_Gen";
+            this.buttonRBF_Gen.Size = new System.Drawing.Size(161, 45);
+            this.buttonRBF_Gen.TabIndex = 106;
+            this.buttonRBF_Gen.Text = "Generate";
+            this.buttonRBF_Gen.UseVisualStyleBackColor = true;
+            this.buttonRBF_Gen.Click += new System.EventHandler(this.buttonRBF_Gen_Click);
+            // 
+            // label66
+            // 
+            this.label66.AutoSize = true;
+            this.label66.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label66.Location = new System.Drawing.Point(24, 81);
+            this.label66.Name = "label66";
+            this.label66.Size = new System.Drawing.Size(73, 14);
+            this.label66.TabIndex = 105;
+            this.label66.Text = "Base Fare ID:";
+            // 
+            // label67
+            // 
+            this.label67.AutoSize = true;
+            this.label67.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label67.Location = new System.Drawing.Point(24, 20);
+            this.label67.Name = "label67";
+            this.label67.Size = new System.Drawing.Size(101, 14);
+            this.label67.TabIndex = 103;
+            this.label67.Text = "Route Long Name:";
             // 
             // tb1
             // 
@@ -1679,8 +1801,6 @@
             this.dataGridViewBP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewBP.Size = new System.Drawing.Size(862, 370);
             this.dataGridViewBP.TabIndex = 125;
-            this.dataGridViewBP.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewBP_CellClick);
-            this.dataGridViewBP.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewBP_CellContentClick);
             this.dataGridViewBP.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewBP_CellContentClick);
             // 
             // label34
@@ -2023,7 +2143,6 @@
             this.dataGridViewFleets.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridViewFleets.Size = new System.Drawing.Size(862, 353);
             this.dataGridViewFleets.TabIndex = 126;
-            this.dataGridViewFleets.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewFleets_CellClick);
             this.dataGridViewFleets.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewFleets_CellDoubleClick);
             // 
             // label36
@@ -2323,8 +2442,6 @@
             this.metroGridFleets.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.metroGridFleets.Size = new System.Drawing.Size(862, 298);
             this.metroGridFleets.TabIndex = 127;
-            this.metroGridFleets.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.metroGridFleets_CellClick);
-            this.metroGridFleets.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.metroGridFleets_CellContentDoubleClick);
             this.metroGridFleets.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.metroGridFleets_CellContentDoubleClick);
             // 
             // label40
@@ -2800,7 +2917,6 @@
             this.dgvDBR.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDBR.Size = new System.Drawing.Size(862, 259);
             this.dgvDBR.TabIndex = 128;
-            this.dgvDBR.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBR_CellClick);
             this.dgvDBR.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBR_CellDoubleClick);
             // 
             // checkBoxDBR
@@ -3388,7 +3504,6 @@
             this.dgvDFT.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDFT.Size = new System.Drawing.Size(862, 271);
             this.dgvDFT.TabIndex = 129;
-            this.dgvDFT.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDFT_CellClick);
             this.dgvDFT.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDFT_CellDoubleClick);
             // 
             // label92
@@ -3960,7 +4075,6 @@
             this.dgvDBFT.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDBFT.Size = new System.Drawing.Size(862, 286);
             this.dgvDBFT.TabIndex = 125;
-            this.dgvDBFT.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBFT_CellClick);
             this.dgvDBFT.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBFT_CellDoubleClick);
             // 
             // label68
@@ -4113,295 +4227,6 @@
             this.textBoxDBFT_FA.TabIndex = 103;
             this.textBoxDBFT_FA.TextChanged += new System.EventHandler(this.textBoxDBFT_FA_TextChanged);
             this.textBoxDBFT_FA.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxCreate_PID_KeyPress);
-            // 
-            // tb8
-            // 
-            this.tb8.Controls.Add(this.panel7);
-            this.tb8.Location = new System.Drawing.Point(4, 34);
-            this.tb8.Name = "tb8";
-            this.tb8.Size = new System.Drawing.Size(862, 565);
-            this.tb8.TabIndex = 7;
-            this.tb8.Text = "Route Based Fares";
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel7.Controls.Add(this.buttonexprbf);
-            this.panel7.Controls.Add(this.panelRBF);
-            this.panel7.Controls.Add(this.buttonSAVERBF);
-            this.panel7.Controls.Add(this.buttonDELRBF);
-            this.panel7.Controls.Add(this.label83);
-            this.panel7.Controls.Add(this.label82);
-            this.panel7.Controls.Add(this.dgvRBF);
-            this.panel7.Controls.Add(this.metroComboBoxRBF_BFI);
-            this.panel7.Controls.Add(this.metroComboBoxRBF_RID);
-            this.panel7.Controls.Add(this.buttonRBF_Gen);
-            this.panel7.Controls.Add(this.label66);
-            this.panel7.Controls.Add(this.label67);
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(0, 0);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(862, 565);
-            this.panel7.TabIndex = 79;
-            // 
-            // buttonexprbf
-            // 
-            this.buttonexprbf.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.buttonexprbf.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.buttonexprbf.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonexprbf.Location = new System.Drawing.Point(711, 200);
-            this.buttonexprbf.Name = "buttonexprbf";
-            this.buttonexprbf.Size = new System.Drawing.Size(133, 45);
-            this.buttonexprbf.TabIndex = 137;
-            this.buttonexprbf.Text = "Export";
-            this.buttonexprbf.UseVisualStyleBackColor = false;
-            this.buttonexprbf.Click += new System.EventHandler(this.buttonexprbf_Click);
-            // 
-            // panelRBF
-            // 
-            this.panelRBF.Controls.Add(this.label246);
-            this.panelRBF.Controls.Add(this.label247);
-            this.panelRBF.Controls.Add(this.metroComboBoxRBF_BFI2);
-            this.panelRBF.Controls.Add(this.metroComboBoxRBF_RID2);
-            this.panelRBF.Controls.Add(this.label248);
-            this.panelRBF.Controls.Add(this.label249);
-            this.panelRBF.Location = new System.Drawing.Point(29, 20);
-            this.panelRBF.Name = "panelRBF";
-            this.panelRBF.Size = new System.Drawing.Size(674, 117);
-            this.panelRBF.TabIndex = 83;
-            this.panelRBF.Visible = false;
-            // 
-            // label246
-            // 
-            this.label246.AutoSize = true;
-            this.label246.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label246.ForeColor = System.Drawing.Color.Red;
-            this.label246.Location = new System.Drawing.Point(640, 62);
-            this.label246.Name = "label246";
-            this.label246.Size = new System.Drawing.Size(15, 18);
-            this.label246.TabIndex = 125;
-            this.label246.Text = "*";
-            // 
-            // label247
-            // 
-            this.label247.AutoSize = true;
-            this.label247.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label247.ForeColor = System.Drawing.Color.Red;
-            this.label247.Location = new System.Drawing.Point(640, 0);
-            this.label247.Name = "label247";
-            this.label247.Size = new System.Drawing.Size(15, 18);
-            this.label247.TabIndex = 124;
-            this.label247.Text = "*";
-            // 
-            // metroComboBoxRBF_BFI2
-            // 
-            this.metroComboBoxRBF_BFI2.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
-            this.metroComboBoxRBF_BFI2.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.metroComboBoxRBF_BFI2.FormattingEnabled = true;
-            this.metroComboBoxRBF_BFI2.ItemHeight = 23;
-            this.metroComboBoxRBF_BFI2.Location = new System.Drawing.Point(0, 88);
-            this.metroComboBoxRBF_BFI2.Name = "metroComboBoxRBF_BFI2";
-            this.metroComboBoxRBF_BFI2.Size = new System.Drawing.Size(668, 29);
-            this.metroComboBoxRBF_BFI2.Sorted = true;
-            this.metroComboBoxRBF_BFI2.TabIndex = 123;
-            this.metroComboBoxRBF_BFI2.UseSelectable = true;
-            this.metroComboBoxRBF_BFI2.UseStyleColors = true;
-            this.metroComboBoxRBF_BFI2.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_BFI2_SelectedIndexChanged);
-            // 
-            // metroComboBoxRBF_RID2
-            // 
-            this.metroComboBoxRBF_RID2.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
-            this.metroComboBoxRBF_RID2.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.metroComboBoxRBF_RID2.FormattingEnabled = true;
-            this.metroComboBoxRBF_RID2.ItemHeight = 23;
-            this.metroComboBoxRBF_RID2.Location = new System.Drawing.Point(0, 29);
-            this.metroComboBoxRBF_RID2.Name = "metroComboBoxRBF_RID2";
-            this.metroComboBoxRBF_RID2.Size = new System.Drawing.Size(668, 29);
-            this.metroComboBoxRBF_RID2.Sorted = true;
-            this.metroComboBoxRBF_RID2.TabIndex = 122;
-            this.metroComboBoxRBF_RID2.UseSelectable = true;
-            this.metroComboBoxRBF_RID2.UseStyleColors = true;
-            this.metroComboBoxRBF_RID2.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_RID2_SelectedIndexChanged);
-            // 
-            // label248
-            // 
-            this.label248.AutoSize = true;
-            this.label248.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label248.Location = new System.Drawing.Point(-5, 61);
-            this.label248.Name = "label248";
-            this.label248.Size = new System.Drawing.Size(99, 14);
-            this.label248.TabIndex = 121;
-            this.label248.Text = "New Base Fare ID:";
-            // 
-            // label249
-            // 
-            this.label249.AutoSize = true;
-            this.label249.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label249.Location = new System.Drawing.Point(-5, 0);
-            this.label249.Name = "label249";
-            this.label249.Size = new System.Drawing.Size(127, 14);
-            this.label249.TabIndex = 120;
-            this.label249.Text = "New Route Long Name:";
-            // 
-            // buttonSAVERBF
-            // 
-            this.buttonSAVERBF.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.buttonSAVERBF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonSAVERBF.Location = new System.Drawing.Point(544, 149);
-            this.buttonSAVERBF.Name = "buttonSAVERBF";
-            this.buttonSAVERBF.Size = new System.Drawing.Size(133, 45);
-            this.buttonSAVERBF.TabIndex = 136;
-            this.buttonSAVERBF.Text = "Save";
-            this.buttonSAVERBF.UseVisualStyleBackColor = true;
-            this.buttonSAVERBF.Visible = false;
-            this.buttonSAVERBF.Click += new System.EventHandler(this.buttonSAVERBF_Click);
-            // 
-            // buttonDELRBF
-            // 
-            this.buttonDELRBF.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.buttonDELRBF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonDELRBF.Location = new System.Drawing.Point(2, 206);
-            this.buttonDELRBF.Name = "buttonDELRBF";
-            this.buttonDELRBF.Size = new System.Drawing.Size(111, 41);
-            this.buttonDELRBF.TabIndex = 130;
-            this.buttonDELRBF.Text = "Delete";
-            this.buttonDELRBF.UseVisualStyleBackColor = true;
-            this.buttonDELRBF.Click += new System.EventHandler(this.buttonDELRBF_Click);
-            // 
-            // label83
-            // 
-            this.label83.AutoSize = true;
-            this.label83.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label83.ForeColor = System.Drawing.Color.Red;
-            this.label83.Location = new System.Drawing.Point(669, 82);
-            this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(15, 18);
-            this.label83.TabIndex = 119;
-            this.label83.Text = "*";
-            // 
-            // label82
-            // 
-            this.label82.AutoSize = true;
-            this.label82.Font = new System.Drawing.Font("Google Sans", 10.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label82.ForeColor = System.Drawing.Color.Red;
-            this.label82.Location = new System.Drawing.Point(669, 20);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(15, 18);
-            this.label82.TabIndex = 118;
-            this.label82.Text = "*";
-            // 
-            // dgvRBF
-            // 
-            this.dgvRBF.AllowUserToAddRows = false;
-            this.dgvRBF.AllowUserToResizeRows = false;
-            this.dgvRBF.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
-            this.dgvRBF.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.dgvRBF.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.dgvRBF.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.dgvRBF.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
-            this.dgvRBF.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle22.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
-            dataGridViewCellStyle22.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle22.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle22.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle22.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle22.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvRBF.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle22;
-            this.dgvRBF.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle23.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle23.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle23.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(136)))), ((int)(((byte)(136)))));
-            dataGridViewCellStyle23.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle23.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle23.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvRBF.DefaultCellStyle = dataGridViewCellStyle23;
-            this.dgvRBF.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgvRBF.EnableHeadersVisualStyles = false;
-            this.dgvRBF.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.dgvRBF.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.dgvRBF.Location = new System.Drawing.Point(0, 222);
-            this.dgvRBF.MultiSelect = false;
-            this.dgvRBF.Name = "dgvRBF";
-            this.dgvRBF.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle24.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
-            dataGridViewCellStyle24.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            dataGridViewCellStyle24.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle24.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
-            dataGridViewCellStyle24.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
-            dataGridViewCellStyle24.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvRBF.RowHeadersDefaultCellStyle = dataGridViewCellStyle24;
-            this.dgvRBF.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
-            this.dgvRBF.RowTemplate.Height = 33;
-            this.dgvRBF.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvRBF.Size = new System.Drawing.Size(862, 343);
-            this.dgvRBF.TabIndex = 126;
-            this.dgvRBF.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRBF_CellClick);
-            this.dgvRBF.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRBF_CellDoubleClick);
-            // 
-            // metroComboBoxRBF_BFI
-            // 
-            this.metroComboBoxRBF_BFI.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
-            this.metroComboBoxRBF_BFI.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.metroComboBoxRBF_BFI.FormattingEnabled = true;
-            this.metroComboBoxRBF_BFI.ItemHeight = 23;
-            this.metroComboBoxRBF_BFI.Location = new System.Drawing.Point(29, 108);
-            this.metroComboBoxRBF_BFI.Name = "metroComboBoxRBF_BFI";
-            this.metroComboBoxRBF_BFI.Size = new System.Drawing.Size(668, 29);
-            this.metroComboBoxRBF_BFI.Sorted = true;
-            this.metroComboBoxRBF_BFI.TabIndex = 108;
-            this.metroComboBoxRBF_BFI.UseSelectable = true;
-            this.metroComboBoxRBF_BFI.UseStyleColors = true;
-            this.metroComboBoxRBF_BFI.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_BFI_SelectedIndexChanged);
-            // 
-            // metroComboBoxRBF_RID
-            // 
-            this.metroComboBoxRBF_RID.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
-            this.metroComboBoxRBF_RID.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.metroComboBoxRBF_RID.FormattingEnabled = true;
-            this.metroComboBoxRBF_RID.ItemHeight = 23;
-            this.metroComboBoxRBF_RID.Location = new System.Drawing.Point(29, 49);
-            this.metroComboBoxRBF_RID.Name = "metroComboBoxRBF_RID";
-            this.metroComboBoxRBF_RID.Size = new System.Drawing.Size(668, 29);
-            this.metroComboBoxRBF_RID.Sorted = true;
-            this.metroComboBoxRBF_RID.TabIndex = 107;
-            this.metroComboBoxRBF_RID.UseSelectable = true;
-            this.metroComboBoxRBF_RID.UseStyleColors = true;
-            this.metroComboBoxRBF_RID.SelectedIndexChanged += new System.EventHandler(this.metroComboBoxRBF_RID_SelectedIndexChanged);
-            // 
-            // buttonRBF_Gen
-            // 
-            this.buttonRBF_Gen.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.buttonRBF_Gen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonRBF_Gen.Location = new System.Drawing.Point(683, 149);
-            this.buttonRBF_Gen.Name = "buttonRBF_Gen";
-            this.buttonRBF_Gen.Size = new System.Drawing.Size(161, 45);
-            this.buttonRBF_Gen.TabIndex = 106;
-            this.buttonRBF_Gen.Text = "Generate";
-            this.buttonRBF_Gen.UseVisualStyleBackColor = true;
-            this.buttonRBF_Gen.Click += new System.EventHandler(this.buttonRBF_Gen_Click);
-            // 
-            // label66
-            // 
-            this.label66.AutoSize = true;
-            this.label66.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label66.Location = new System.Drawing.Point(24, 81);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(73, 14);
-            this.label66.TabIndex = 105;
-            this.label66.Text = "Base Fare ID:";
-            // 
-            // label67
-            // 
-            this.label67.AutoSize = true;
-            this.label67.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label67.Location = new System.Drawing.Point(24, 20);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(101, 14);
-            this.label67.TabIndex = 103;
-            this.label67.Text = "Route Long Name:";
             // 
             // tb9
             // 
@@ -4627,7 +4452,6 @@
             this.dgvRDF.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvRDF.Size = new System.Drawing.Size(862, 309);
             this.dgvRDF.TabIndex = 127;
-            this.dgvRDF.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRDF_CellClick);
             this.dgvRDF.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRDF_CellDoubleClick);
             // 
             // metroComboBoxRDBF_DID
@@ -4915,7 +4739,6 @@
             this.dgvPR.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPR.Size = new System.Drawing.Size(862, 321);
             this.dgvPR.TabIndex = 127;
-            this.dgvPR.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPR_CellClick);
             this.dgvPR.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPR_CellDoubleClick);
             // 
             // metroComboBoxPR_RID
@@ -5181,7 +5004,6 @@
             this.dgvPDB.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPDB.Size = new System.Drawing.Size(862, 324);
             this.dgvPDB.TabIndex = 136;
-            this.dgvPDB.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPDB_CellClick);
             this.dgvPDB.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPDB_CellDoubleClick);
             // 
             // label35
@@ -5511,7 +5333,6 @@
             this.dgvPP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPP.Size = new System.Drawing.Size(862, 401);
             this.dgvPP.TabIndex = 145;
-            this.dgvPP.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPP_CellClick);
             this.dgvPP.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPP_CellDoubleClick);
             // 
             // metroComboBoxPP_SPI
@@ -5833,7 +5654,6 @@
             this.dgvSP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvSP.Size = new System.Drawing.Size(862, 380);
             this.dgvSP.TabIndex = 151;
-            this.dgvSP.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSP_CellClick);
             this.dgvSP.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSP_CellDoubleClick);
             // 
             // label102
@@ -6302,7 +6122,6 @@
             this.dgvDBIF.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDBIF.Size = new System.Drawing.Size(862, 286);
             this.dgvDBIF.TabIndex = 145;
-            this.dgvDBIF.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBIF_CellClick);
             this.dgvDBIF.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBIF_CellDoubleClick);
             // 
             // tb15
@@ -6717,7 +6536,6 @@
             this.dgvUA.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvUA.Size = new System.Drawing.Size(862, 232);
             this.dgvUA.TabIndex = 174;
-            this.dgvUA.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUA_CellClick);
             this.dgvUA.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUA_CellDoubleClick);
             // 
             // metroDateTimeEDUA
@@ -7303,7 +7121,6 @@
             this.dgvUC.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvUC.Size = new System.Drawing.Size(862, 313);
             this.dgvUC.TabIndex = 188;
-            this.dgvUC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUC_CellClick);
             this.dgvUC.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUC_CellDoubleClick);
             // 
             // label125
@@ -8287,7 +8104,6 @@
             this.dgvBS.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBS.Size = new System.Drawing.Size(862, 273);
             this.dgvBS.TabIndex = 195;
-            this.dgvBS.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBS_CellClick);
             this.dgvBS.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBS_CellDoubleClick);
             // 
             // label175
@@ -8873,7 +8689,6 @@
             this.dgvSFF.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvSFF.Size = new System.Drawing.Size(862, 309);
             this.dgvSFF.TabIndex = 203;
-            this.dgvSFF.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSFF_CellClick);
             this.dgvSFF.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSFF_CellDoubleClick);
             // 
             // checkBoxSFF_A
@@ -9245,7 +9060,6 @@
             this.dgvDBCP.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvDBCP.Size = new System.Drawing.Size(862, 324);
             this.dgvDBCP.TabIndex = 212;
-            this.dgvDBCP.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBCP_CellClick);
             this.dgvDBCP.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDBCP_CellDoubleClick);
             // 
             // buttonDBCPADD
@@ -9919,7 +9733,6 @@
             this.dgvPD.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvPD.Size = new System.Drawing.Size(862, 324);
             this.dgvPD.TabIndex = 147;
-            this.dgvPD.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPD_CellClick);
             this.dgvPD.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPD_CellContentDoubleClick);
             // 
             // label280
@@ -10005,6 +9818,172 @@
             this.label283.Size = new System.Drawing.Size(75, 14);
             this.label283.TabIndex = 140;
             this.label283.Text = "Profile Name:";
+            // 
+            // tb26
+            // 
+            this.tb26.Controls.Add(this.panel25);
+            this.tb26.Location = new System.Drawing.Point(4, 34);
+            this.tb26.Name = "tb26";
+            this.tb26.Size = new System.Drawing.Size(862, 565);
+            this.tb26.TabIndex = 27;
+            this.tb26.Text = "Config Checker";
+            // 
+            // panel25
+            // 
+            this.panel25.BackColor = System.Drawing.SystemColors.Window;
+            this.panel25.Controls.Add(this.efx);
+            this.panel25.Controls.Add(this.buttonPauseResume);
+            this.panel25.Controls.Add(this.pb);
+            this.panel25.Controls.Add(this.labelCHECK);
+            this.panel25.Controls.Add(this.startInitial);
+            this.panel25.Controls.Add(this.comboCHECK);
+            this.panel25.Controls.Add(this.label284);
+            this.panel25.Controls.Add(this.dgvCC);
+            this.panel25.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel25.Location = new System.Drawing.Point(0, 0);
+            this.panel25.Name = "panel25";
+            this.panel25.Size = new System.Drawing.Size(862, 565);
+            this.panel25.TabIndex = 84;
+            // 
+            // efx
+            // 
+            this.efx.AutoSize = true;
+            this.efx.Font = new System.Drawing.Font("Google Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.efx.Location = new System.Drawing.Point(11, 79);
+            this.efx.Name = "efx";
+            this.efx.Size = new System.Drawing.Size(169, 20);
+            this.efx.TabIndex = 221;
+            this.efx.Text = "Cheking Parameters...";
+            this.efx.Visible = false;
+            // 
+            // buttonPauseResume
+            // 
+            this.buttonPauseResume.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.buttonPauseResume.BackgroundImage = global::AFPI_Beejees_db.Properties.Resources.pause;
+            this.buttonPauseResume.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.buttonPauseResume.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.buttonPauseResume.FlatAppearance.BorderSize = 0;
+            this.buttonPauseResume.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.buttonPauseResume.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonPauseResume.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonPauseResume.Location = new System.Drawing.Point(14, 216);
+            this.buttonPauseResume.Name = "buttonPauseResume";
+            this.buttonPauseResume.Size = new System.Drawing.Size(24, 25);
+            this.buttonPauseResume.TabIndex = 220;
+            this.buttonPauseResume.UseVisualStyleBackColor = true;
+            this.buttonPauseResume.Visible = false;
+            this.buttonPauseResume.Click += new System.EventHandler(this.buttonPauseResume_Click);
+            // 
+            // pb
+            // 
+            this.pb.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pb.Image = global::AFPI_Beejees_db.Properties.Resources.giphy;
+            this.pb.Location = new System.Drawing.Point(178, 73);
+            this.pb.Name = "pb";
+            this.pb.Size = new System.Drawing.Size(31, 30);
+            this.pb.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pb.TabIndex = 219;
+            this.pb.TabStop = false;
+            this.pb.Visible = false;
+            // 
+            // labelCHECK
+            // 
+            this.labelCHECK.AutoSize = true;
+            this.labelCHECK.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelCHECK.Location = new System.Drawing.Point(11, 102);
+            this.labelCHECK.Name = "labelCHECK";
+            this.labelCHECK.Size = new System.Drawing.Size(0, 14);
+            this.labelCHECK.TabIndex = 218;
+            // 
+            // startInitial
+            // 
+            this.startInitial.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.startInitial.BackgroundImage = global::AFPI_Beejees_db.Properties.Resources.RUN1;
+            this.startInitial.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.startInitial.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
+            this.startInitial.FlatAppearance.BorderSize = 0;
+            this.startInitial.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.startInitial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.startInitial.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.startInitial.Location = new System.Drawing.Point(380, 31);
+            this.startInitial.Name = "startInitial";
+            this.startInitial.Size = new System.Drawing.Size(24, 25);
+            this.startInitial.TabIndex = 217;
+            this.startInitial.UseVisualStyleBackColor = true;
+            this.startInitial.Click += new System.EventHandler(this.button1_Click_2);
+            // 
+            // comboCHECK
+            // 
+            this.comboCHECK.FontWeight = MetroFramework.MetroComboBoxWeight.Light;
+            this.comboCHECK.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.comboCHECK.FormattingEnabled = true;
+            this.comboCHECK.ItemHeight = 23;
+            this.comboCHECK.Location = new System.Drawing.Point(14, 43);
+            this.comboCHECK.Name = "comboCHECK";
+            this.comboCHECK.Size = new System.Drawing.Size(360, 29);
+            this.comboCHECK.Sorted = true;
+            this.comboCHECK.TabIndex = 150;
+            this.comboCHECK.UseSelectable = true;
+            this.comboCHECK.UseStyleColors = true;
+            // 
+            // label284
+            // 
+            this.label284.AutoSize = true;
+            this.label284.Font = new System.Drawing.Font("Google Sans", 7.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label284.Location = new System.Drawing.Point(11, 26);
+            this.label284.Name = "label284";
+            this.label284.Size = new System.Drawing.Size(86, 14);
+            this.label284.TabIndex = 149;
+            this.label284.Text = "Select Route ID:";
+            // 
+            // dgvCC
+            // 
+            this.dgvCC.AllowUserToAddRows = false;
+            this.dgvCC.AllowUserToResizeRows = false;
+            this.dgvCC.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvCC.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dgvCC.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvCC.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
+            this.dgvCC.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle76.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle76.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            dataGridViewCellStyle76.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle76.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle76.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle76.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle76.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvCC.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle76;
+            this.dgvCC.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle77.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle77.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle77.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle77.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(136)))), ((int)(((byte)(136)))), ((int)(((byte)(136)))));
+            dataGridViewCellStyle77.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle77.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle77.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvCC.DefaultCellStyle = dataGridViewCellStyle77;
+            this.dgvCC.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dgvCC.EnableHeadersVisualStyles = false;
+            this.dgvCC.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            this.dgvCC.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dgvCC.Location = new System.Drawing.Point(0, 232);
+            this.dgvCC.MultiSelect = false;
+            this.dgvCC.Name = "dgvCC";
+            this.dgvCC.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle78.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle78.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(174)))), ((int)(((byte)(219)))));
+            dataGridViewCellStyle78.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            dataGridViewCellStyle78.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle78.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(198)))), ((int)(((byte)(247)))));
+            dataGridViewCellStyle78.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
+            dataGridViewCellStyle78.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvCC.RowHeadersDefaultCellStyle = dataGridViewCellStyle78;
+            this.dgvCC.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
+            this.dgvCC.RowTemplate.Height = 33;
+            this.dgvCC.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvCC.Size = new System.Drawing.Size(862, 333);
+            this.dgvCC.TabIndex = 148;
+            this.dgvCC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCC_CellClick);
             // 
             // panelMenu
             // 
@@ -10186,7 +10165,7 @@
             this.button5.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.button5.FlatAppearance.BorderSize = 0;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Location = new System.Drawing.Point(-4, 366);
+            this.button5.Location = new System.Drawing.Point(-4, 424);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(268, 51);
             this.button5.TabIndex = 80;
@@ -10200,7 +10179,7 @@
             this.buttonRBF.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonRBF.FlatAppearance.BorderSize = 0;
             this.buttonRBF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonRBF.Location = new System.Drawing.Point(-1, 51);
+            this.buttonRBF.Location = new System.Drawing.Point(-1, 71);
             this.buttonRBF.Name = "buttonRBF";
             this.buttonRBF.Size = new System.Drawing.Size(263, 53);
             this.buttonRBF.TabIndex = 76;
@@ -10229,7 +10208,7 @@
             this.buttonRDF.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonRDF.FlatAppearance.BorderSize = 0;
             this.buttonRDF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonRDF.Location = new System.Drawing.Point(-1, 92);
+            this.buttonRDF.Location = new System.Drawing.Point(-1, 119);
             this.buttonRDF.Name = "buttonRDF";
             this.buttonRDF.Size = new System.Drawing.Size(263, 62);
             this.buttonRDF.TabIndex = 78;
@@ -10285,7 +10264,7 @@
             this.buttonPD.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonPD.FlatAppearance.BorderSize = 0;
             this.buttonPD.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonPD.Location = new System.Drawing.Point(0, 149);
+            this.buttonPD.Location = new System.Drawing.Point(0, 186);
             this.buttonPD.Name = "buttonPD";
             this.buttonPD.Size = new System.Drawing.Size(263, 53);
             this.buttonPD.TabIndex = 81;
@@ -10299,7 +10278,7 @@
             this.buttonPP.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonPP.FlatAppearance.BorderSize = 0;
             this.buttonPP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonPP.Location = new System.Drawing.Point(-1, 311);
+            this.buttonPP.Location = new System.Drawing.Point(-1, 366);
             this.buttonPP.Name = "buttonPP";
             this.buttonPP.Size = new System.Drawing.Size(263, 51);
             this.buttonPP.TabIndex = 76;
@@ -10313,7 +10292,7 @@
             this.buttonPR.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonPR.FlatAppearance.BorderSize = 0;
             this.buttonPR.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonPR.Location = new System.Drawing.Point(1, 200);
+            this.buttonPR.Location = new System.Drawing.Point(1, 246);
             this.buttonPR.Name = "buttonPR";
             this.buttonPR.Size = new System.Drawing.Size(263, 54);
             this.buttonPR.TabIndex = 73;
@@ -10327,7 +10306,7 @@
             this.buttonpdb.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
             this.buttonpdb.FlatAppearance.BorderSize = 0;
             this.buttonpdb.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonpdb.Location = new System.Drawing.Point(-1, 253);
+            this.buttonpdb.Location = new System.Drawing.Point(-1, 308);
             this.buttonpdb.Name = "buttonpdb";
             this.buttonpdb.Size = new System.Drawing.Size(263, 51);
             this.buttonpdb.TabIndex = 74;
@@ -10620,11 +10599,12 @@
             this.TransparencyKey = System.Drawing.Color.Empty;
             this.Load += new System.EventHandler(this.AFPI_Form_Load);
             this.tabMASTER.ResumeLayout(false);
-            this.tb26.ResumeLayout(false);
-            this.panel25.ResumeLayout(false);
-            this.panel25.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pb)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvCC)).EndInit();
+            this.tb8.ResumeLayout(false);
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panelRBF.ResumeLayout(false);
+            this.panelRBF.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvRBF)).EndInit();
             this.tb1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panelMerc.ResumeLayout(false);
@@ -10670,12 +10650,6 @@
             this.panelDBFT.ResumeLayout(false);
             this.panelDBFT.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDBFT)).EndInit();
-            this.tb8.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.panelRBF.ResumeLayout(false);
-            this.panelRBF.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvRBF)).EndInit();
             this.tb9.ResumeLayout(false);
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
@@ -10774,6 +10748,11 @@
             this.panelPD.ResumeLayout(false);
             this.panelPD.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPD)).EndInit();
+            this.tb26.ResumeLayout(false);
+            this.panel25.ResumeLayout(false);
+            this.panel25.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pb)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCC)).EndInit();
             this.panelMenu.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.logo)).EndInit();
             this.panelMenu2.ResumeLayout(false);

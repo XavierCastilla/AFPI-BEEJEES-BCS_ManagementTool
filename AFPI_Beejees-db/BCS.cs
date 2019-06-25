@@ -133,11 +133,12 @@ namespace AFPI_Beejees_db
         private void buttonEXIT_Click(object sender, EventArgs e)
         {
             DialogResult dialogResult = MessageBox.Show("Are you sure?", "Close Application", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
-            if (dialogResult == DialogResult.Yes)
+            if (dialogResult == DialogResult.Yes) { 
                 this.Close();
             AFPI_Beejees_db.LoginForm ap = new LoginForm();
             this.Hide();
             ap.ShowDialog();
+            }
         }
 
         private void buttonm_Click(object sender, EventArgs e)
@@ -864,6 +865,7 @@ namespace AFPI_Beejees_db
 
                 }
             }
+            else CelltoClip(sender, e, dgvT);
         }
 
         private void buttonSaveBRC_Click(object sender, EventArgs e)
@@ -918,6 +920,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, delBCR);
                 }
             }
+            else CelltoClip(sender, e, dgvBCR);
         }
 
         private void dgvCR_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -935,6 +938,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, delCR);
                 }
             }
+            else CelltoClip(sender, e, dgvCR);
         }
 
         private void buttonSaveCR_Click(object sender, EventArgs e)
@@ -988,6 +992,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, delC);
                 }
             }
+            else CelltoClip(sender, e, dgvC);
         }
 
         private void buttonSaveC_Click(object sender, EventArgs e)
@@ -1056,6 +1061,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, delBR);
                 }
             }
+            else CelltoClip(sender, e, dgvBR);
         }
 
         private void buttonSaveBR_Click(object sender, EventArgs e)
@@ -1155,6 +1161,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, delBC);
                 }
             }
+            else CelltoClip(sender, e, dgvBC);
         }
 
         private void qm_Click(object sender, EventArgs e)
@@ -1170,7 +1177,7 @@ namespace AFPI_Beejees_db
             CelltoClip(sender, e, dgvT);
         }
         private void CelltoClip(object sender, DataGridViewCellEventArgs e, DataGridView dgv)
-        {
+        {if(togDEL.Enabled == true) { 
             try { 
             if (dgv.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
             {
@@ -1183,6 +1190,7 @@ namespace AFPI_Beejees_db
             }
             }
             catch { }
+            }
         }
 
         private void dgvBCR_CellClick(object sender, DataGridViewCellEventArgs e)

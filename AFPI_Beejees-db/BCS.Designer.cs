@@ -367,7 +367,7 @@
             this.dgvDELETE.Location = new System.Drawing.Point(365, 47);
             this.dgvDELETE.Margin = new System.Windows.Forms.Padding(0);
             this.dgvDELETE.Name = "dgvDELETE";
-            this.dgvDELETE.SelectedIndex = 0;
+            this.dgvDELETE.SelectedIndex = 5;
             this.dgvDELETE.Size = new System.Drawing.Size(950, 604);
             this.dgvDELETE.Style = MetroFramework.MetroColorStyle.Blue;
             this.dgvDELETE.TabIndex = 88;
@@ -474,7 +474,6 @@
             this.dgvCR.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvCR.Size = new System.Drawing.Size(396, 543);
             this.dgvCR.TabIndex = 204;
-            this.dgvCR.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCR_CellClick);
             this.dgvCR.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCR_CellDoubleClick);
             // 
             // label13
@@ -649,7 +648,6 @@
             this.dgvC.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvC.Size = new System.Drawing.Size(942, 307);
             this.dgvC.TabIndex = 190;
-            this.dgvC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvC_CellClick);
             this.dgvC.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvC_CellDoubleClick);
             // 
             // buttonCREATEC
@@ -882,7 +880,6 @@
             this.dgvBR.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBR.Size = new System.Drawing.Size(942, 297);
             this.dgvBR.TabIndex = 195;
-            this.dgvBR.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBR_CellClick);
             this.dgvBR.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBR_CellDoubleClick);
             // 
             // textBoxBR
@@ -1112,7 +1109,6 @@
             this.dgvBC.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBC.Size = new System.Drawing.Size(942, 294);
             this.dgvBC.TabIndex = 205;
-            this.dgvBC.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBC_CellClick);
             this.dgvBC.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBC_CellDoubleClick);
             // 
             // metroComboBoxBRCBC
@@ -1270,7 +1266,6 @@
             this.dgvBCR.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvBCR.Size = new System.Drawing.Size(942, 292);
             this.dgvBCR.TabIndex = 208;
-            this.dgvBCR.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBCR_CellClick);
             this.dgvBCR.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBCR_CellDoubleClick);
             // 
             // buttonADDBRC
@@ -1467,7 +1462,6 @@
             this.dgvT.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvT.Size = new System.Drawing.Size(942, 297);
             this.dgvT.TabIndex = 211;
-            this.dgvT.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvT_CellClick);
             this.dgvT.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvT_CellDoubleClick);
             // 
             // metroComboBoxCANT

@@ -126,10 +126,12 @@ namespace AFPI_Beejees_db
         {
             DialogResult dialogResult = MessageBox.Show("Are you sure?", "Close Application", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
             if (dialogResult == DialogResult.Yes)
+            {
                 this.Close();
-            AFPI_Beejees_db.LoginForm ap = new LoginForm();
-            this.Hide();
-            ap.ShowDialog();
+                AFPI_Beejees_db.LoginForm ap = new LoginForm();
+                this.Hide();
+                ap.ShowDialog();
+            }
         }
 
         public void IsMenuDisabled(bool t, Button b)
@@ -3299,6 +3301,7 @@ namespace AFPI_Beejees_db
                     }
                 }
             }
+            else CelltoClip(sender, e, dataGridViewFleets);
         }
 
         private void buttonSAVE_Fleets_Click(object sender, EventArgs e)
@@ -3477,6 +3480,7 @@ namespace AFPI_Beejees_db
                 metroComboBoxTType.Text = metroGridFleets.SelectedRows[0].Cells[3].Value.ToString();
                 IsMenuDisabled(true, buttonDelT);
             }
+            else CelltoClip(sender, e, metroGridFleets);
         }
 
         private void metroComboBoxFleet_SelectedIndexChanged(object sender, EventArgs e)
@@ -3587,6 +3591,7 @@ namespace AFPI_Beejees_db
                 else { checkBoxNDBR.Checked = true; }
                 IsMenuDisabled(true, buttonDELDBR);
             }
+            else CelltoClip(sender, e, dgvDBR);
         }
 
         private void buttonRUNins_Click(object sender, EventArgs e)
@@ -4267,6 +4272,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonBPdel);
                 }
             }
+            else CelltoClip(sender, e, dataGridViewBP);
         }
 
         private void buttonSaveBP_Click(object sender, EventArgs e)
@@ -4417,6 +4423,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonDELDFT);
                 }
             }
+            else CelltoClip(sender, e, dgvDFT);
         }
 
         private void buttonSaveDFT_Click(object sender, EventArgs e)
@@ -4528,6 +4535,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonDELDBFT);
                 }
             }
+            else CelltoClip(sender, e, dgvDBFT);
         }
 
         private void buttonSAVE_DBFT_Click(object sender, EventArgs e)
@@ -4626,6 +4634,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonDELDBIF);
                 }
             }
+            else CelltoClip(sender, e, dgvDBIF);
         }
 
         private void buttonSAVE_DBIF_Click(object sender, EventArgs e)
@@ -4720,6 +4729,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonDELSP);
                 }
             }
+            else CelltoClip(sender, e, dgvSP);
         }
         private void InsSysParams2()
         {
@@ -4795,6 +4805,7 @@ namespace AFPI_Beejees_db
                     IsMenuDisabled(true, buttonDELBS);
                 }
             }
+            else CelltoClip(sender, e, dgvBS);
         }
 
         private void buttonSaveBJS_Click(object sender, EventArgs e)
@@ -4919,6 +4930,7 @@ namespace AFPI_Beejees_db
                     buttonSaveSFF.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvSFF);
         }
 
         private void buttonSaveSFF_Click_1(object sender, EventArgs e)
@@ -4995,6 +5007,7 @@ namespace AFPI_Beejees_db
                     buttonSaveDBCP.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvDBCP);
         }
 
         private void buttonSaveDBCP_Click(object sender, EventArgs e)
@@ -5088,6 +5101,7 @@ namespace AFPI_Beejees_db
                     buttonSaveUC.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvUC);
         }
 
         private void metroComboBoxUC_UN2_SelectedIndexChanged(object sender, EventArgs e)
@@ -5170,6 +5184,7 @@ namespace AFPI_Beejees_db
                     buttonSaveUA.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvUA);
         }
 
         private void metroComboBoxUA_MN2_SelectedIndexChanged(object sender, EventArgs e)
@@ -5295,6 +5310,7 @@ namespace AFPI_Beejees_db
                     buttonSAVERBF.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvRBF);
         }
 
         private void buttonSAVERBF_Click(object sender, EventArgs e)
@@ -5472,6 +5488,7 @@ namespace AFPI_Beejees_db
                     buttonSAVERDF.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvRDF);
         }
 
         private void dgvPR_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -5494,6 +5511,7 @@ namespace AFPI_Beejees_db
                     buttonSavePR.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvPR);
         }
 
         private void dgvPDB_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -5515,6 +5533,7 @@ namespace AFPI_Beejees_db
                     buttonSAVEPDB.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvPDB);
         }
 
         private void dgvPP_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
@@ -5536,6 +5555,7 @@ namespace AFPI_Beejees_db
                     buttonsavePP.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvPP);
         }
 
         private void metroComboBoxPR_PID2_SelectedIndexChanged(object sender, EventArgs e)
@@ -6111,6 +6131,7 @@ namespace AFPI_Beejees_db
                     buttonSAVEPD.Visible = true;
                 }
             }
+            else CelltoClip(sender, e, dgvPD);
         }
         public void ExportTOCSV(MetroFramework.Controls.MetroGrid mg)
         {
@@ -6465,7 +6486,7 @@ namespace AFPI_Beejees_db
 
         private void dataGridViewBP_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            CelltoClip(sender, e, dataGridViewBP);
+           CelltoClip(sender, e, dataGridViewBP);
         }
 
         private void dgvMERC_CellClick(object sender, DataGridViewCellEventArgs e)
