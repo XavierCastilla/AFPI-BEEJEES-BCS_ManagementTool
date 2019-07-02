@@ -1,0 +1,9 @@
+BEEJEES Login -  6/28/2019 3:30:01 PM
+BCS Login -  6/28/2019 3:30:45 PM
+BEEJEES Login -  6/28/2019 3:31:31 PM
+6/28/2019 3:53:01 PM || BCS Login
+6/28/2019 3:53:24 PM|| Updated Card Request: 6378059900485539 - e00eba72-ab51-e811-80c8-000d3aa1a7f8
+6/28/2019 4:18:05 PM || BEEJEES Login
+6/28/2019 4:18:17 PM || Admin mode turned on 
+6/28/2019 4:18:27 PM || Exported to CSV: C:\Users\xavec\Documents\rgfd.csv
+7/2/2019 1:01:31 PM || BCS Login
