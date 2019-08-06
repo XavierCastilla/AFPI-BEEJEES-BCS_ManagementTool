@@ -7,3 +7,274 @@ BEEJEES Login -  6/28/2019 3:31:31 PM
 6/28/2019 4:18:17 PM || Admin mode turned on 
 6/28/2019 4:18:27 PM || Exported to CSV: C:\Users\xavec\Documents\rgfd.csv
 7/2/2019 1:01:31 PM || BCS Login
+7/2/2019 1:15:22 PM || BCS Login
+7/2/2019 1:17:48 PM || BCS Login
+7/2/2019 1:19:29 PM || BEEJEES Login
+7/2/2019 1:20:27 PM || BCS Login
+7/2/2019 1:21:23 PM || BEEJEES Login
+7/2/2019 1:25:14 PM || BCS Login
+7/2/2019 1:25:16 PM || BCS Login
+7/2/2019 1:26:19 PM || BCS Login
+7/2/2019 1:26:45 PM || BEEJEES Login
+7/2/2019 1:27:05 PM || BCS Login
+7/2/2019 1:27:21 PM || Data Exported to CSV: C:\Users\xavec\Documents\rgfd.csv
+7/2/2019 1:28:56 PM || BCS Login
+7/2/2019 1:29:05 PM || BEEJEES Login
+7/2/2019 1:34:41 PM || BCS Login
+7/2/2019 1:35:24 PM || BCS Login
+7/2/2019 1:36:09 PM || BEEJEES Login
+7/2/2019 1:36:13 PM || Config Checker used
+7/2/2019 1:39:24 PM || Failed Login
+7/2/2019 1:40:19 PM || Failed Login
+7/2/2019 1:40:20 PM || Failed Login
+7/2/2019 1:40:21 PM || Failed Login
+7/2/2019 1:40:22 PM || Failed Login
+7/2/2019 1:40:23 PM || Failed Login
+7/2/2019 1:40:23 PM || Failed Login
+7/2/2019 1:40:24 PM || Failed Login
+7/2/2019 1:40:25 PM || Failed Login
+7/2/2019 1:40:26 PM || Failed Login
+7/2/2019 1:40:27 PM || Failed Login
+7/2/2019 1:40:28 PM || Failed Login
+7/2/2019 1:40:28 PM || Failed Login
+7/2/2019 1:40:29 PM || Failed Login
+7/2/2019 1:40:30 PM || Failed Login
+7/2/2019 1:40:31 PM || Failed Login
+7/2/2019 1:40:32 PM || Failed Login
+7/2/2019 1:40:32 PM || Failed Login
+7/2/2019 1:40:33 PM || Failed Login
+7/2/2019 1:40:33 PM || Failed Login
+7/2/2019 1:40:34 PM || Failed Login
+7/2/2019 1:40:34 PM || Failed Login
+7/2/2019 1:40:35 PM || Failed Login
+7/2/2019 1:40:35 PM || Failed Login
+7/2/2019 1:40:36 PM || Failed Login
+7/2/2019 1:40:36 PM || Failed Login
+7/2/2019 1:40:37 PM || Failed Login
+7/2/2019 1:40:37 PM || Failed Login
+7/2/2019 1:40:38 PM || Failed Login
+7/2/2019 1:41:52 PM || Failed Login
+7/2/2019 1:41:57 PM || Failed Login
+7/2/2019 1:42:14 PM || Failed Login
+7/2/2019 1:42:18 PM || BCS Login
+7/2/2019 1:44:59 PM || BCS Login
+7/2/2019 1:45:12 PM || BEEJEES Login
+7/2/2019 1:45:24 PM || Failed Login
+7/2/2019 1:45:29 PM || BEEJEES Login
+7/2/2019 1:45:41 PM || BCS Login
+7/2/2019 1:49:31 PM || BEEJEES Login
+7/2/2019 1:49:44 PM || Admin mode turned on 
+7/2/2019 1:51:22 PM || Exported to CSV: 
+7/10/2019 7:16:21 AM || BEEJEES Login
+7/10/2019 7:55:30 AM || BEEJEES Login
+7/10/2019 7:56:23 AM || Distance Based Route Created
+7/10/2019 7:57:27 AM || BEEJEES Login
+7/10/2019 7:58:31 AM || Distance Based Route Created
+7/10/2019 7:59:49 AM || Distance Based Fare Table Created
+7/10/2019 8:00:27 AM || DistanceBased Increment Fare Created
+7/10/2019 8:00:47 AM || Config Checker used
+7/10/2019 8:01:12 AM || Route Based Fare ID Generated
+7/10/2019 8:01:28 AM || Route Based Fare ID Generated
+7/10/2019 8:01:58 AM || Config Checker used
+7/10/2019 8:04:07 AM || BEEJEES Login
+7/10/2019 8:11:41 AM || BEEJEES Login
+7/10/2019 8:13:39 AM || BEEJEES Login
+7/10/2019 8:14:33 AM || BEEJEES Login
+7/10/2019 8:16:08 AM || BEEJEES Login
+7/10/2019 8:17:58 AM || BEEJEES Login
+7/10/2019 8:19:41 AM || BEEJEES Login
+7/10/2019 8:28:10 AM || BEEJEES Login
+7/10/2019 8:28:31 AM || Discount Fare Table Created
+7/10/2019 8:29:56 AM || BEEJEES Login
+7/10/2019 8:30:09 AM || Admin mode turned on 
+7/10/2019 8:38:37 AM || BEEJEES Login
+7/10/2019 8:41:11 AM || BEEJEES Login
+7/10/2019 8:41:20 AM || Admin mode turned on 
+7/10/2019 8:46:21 AM || BEEJEES Login
+7/10/2019 8:46:33 AM || Admin mode turned on 
+7/10/2019 8:49:27 AM || BEEJEES Login
+7/10/2019 8:49:34 AM || Admin mode turned on 
+7/10/2019 8:53:01 AM || BEEJEES Login
+7/10/2019 8:53:27 AM || BEEJEES Login
+7/10/2019 8:53:40 AM || Admin mode turned on 
+7/10/2019 8:54:28 AM || BEEJEES Login
+7/10/2019 8:54:49 AM || Route Discount Fare Created
+7/10/2019 8:55:33 AM || Route Discount Fare Created
+7/10/2019 8:57:20 AM || Config Checker used
+7/10/2019 9:00:44 AM || Profile Route Created
+7/10/2019 9:00:57 AM || Profile Route Created
+7/10/2019 9:01:15 AM || Profile Distance Based ID generated
+7/10/2019 9:01:50 AM || Config Checker used
+7/10/2019 9:04:27 AM || BeejeesProfile updated
+7/10/2019 9:04:38 AM || BeejeesProfile updated
+7/10/2019 9:06:35 AM || Admin mode turned on 
+7/10/2019 9:07:47 AM || Distance Based Route Created
+7/10/2019 9:08:29 AM || Distance Based Route Created
+7/10/2019 9:09:04 AM || Distance Based Fare Table Created
+7/10/2019 9:09:48 AM || Discount Fare Table Created
+7/10/2019 9:10:10 AM || DistanceBased Increment Fare Created
+7/10/2019 9:10:35 AM || Route Based Fare ID Generated
+7/10/2019 9:10:48 AM || Route Based Fare ID Generated
+7/10/2019 9:11:07 AM || Route Discount Fare Created
+7/10/2019 9:11:18 AM || Route Discount Fare Created
+7/10/2019 9:11:54 AM || Profile Route Created
+7/10/2019 9:12:03 AM || Profile Route Created
+7/10/2019 9:12:14 AM || Profile Distance Based ID generated
+7/10/2019 9:12:20 AM || Config Checker used
+7/10/2019 9:12:35 AM || Config Checker used
+7/10/2019 9:12:47 AM || Config Checker used
+7/10/2019 9:13:58 AM || Distance Based Route Created
+7/10/2019 9:14:30 AM || Distance Based Route Created
+7/10/2019 9:15:09 AM || Distance Based Fare Table Created
+7/10/2019 9:15:39 AM || Discount Fare Table Created
+7/10/2019 9:15:56 AM || DistanceBased Increment Fare Created
+7/10/2019 9:16:24 AM || Route Based Fare ID Generated
+7/10/2019 9:16:34 AM || Route Based Fare ID Generated
+7/10/2019 9:16:49 AM || Route Discount Fare Created
+7/10/2019 9:17:00 AM || Route Discount Fare Created
+7/10/2019 9:17:30 AM || Profile Route Created
+7/10/2019 9:17:40 AM || Profile Route Created
+7/10/2019 9:17:53 AM || Profile Distance Based ID generated
+7/10/2019 9:17:57 AM || Config Checker used
+7/10/2019 9:18:10 AM || Config Checker used
+7/10/2019 9:24:11 AM || BEEJEES Login
+7/10/2019 9:26:26 AM || BEEJEES Login
+7/10/2019 9:27:11 AM || Config Checker used
+7/10/2019 9:29:29 AM || BEEJEES Login
+7/10/2019 9:33:51 AM || BEEJEES Login
+7/10/2019 9:54:22 AM || Config Checker used
+7/10/2019 10:07:51 AM || BEEJEES Login
+7/10/2019 10:16:41 AM || BCS Login
+7/10/2019 10:17:03 AM || BEEJEES Login
+7/10/2019 10:17:16 AM: Merchant created - PNAME: 213 - PSNAME: 213 - PID: 213
+7/10/2019 10:17:16 AM || Merchant created
+7/10/2019 10:17:22 AM || BeejeesProfile updated
+7/10/2019 10:17:34 AM: BeejeesFleets generated - FleetsName: 213 - PID: ccb9e606-c544-402e-a5a2-1b0867e1f4ee
+7/10/2019 10:17:34 AM || BeejeesFleet created
+7/10/2019 10:17:47 AM || Terminal Created 
+7/10/2019 10:17:58 AM || Distance Based Route Created
+7/10/2019 10:18:07 AM || Distance Based Fare Table Created
+7/10/2019 10:18:18 AM || Discount Fare Table Created
+7/10/2019 10:18:34 AM || DistanceBased Increment Fare Created
+7/10/2019 10:18:40 AM || System Parameters generated
+7/10/2019 10:19:25 AM || Exported to CSV: 
+7/10/2019 10:19:35 AM || Route Based Fare ID Generated
+7/10/2019 10:45:08 AM || BEEJEES Login
+7/10/2019 10:45:22 AM || Admin mode turned on 
+7/10/2019 10:49:20 AM || BEEJEES Login
+7/10/2019 11:09:56 AM || BEEJEES Login
+7/10/2019 11:10:18 AM || BEEJEES Login
+7/10/2019 11:10:37 AM || BEEJEES Login
+7/10/2019 11:10:51 AM || Discount Fare Table Created
+7/10/2019 11:13:04 AM || Admin mode turned on 
+7/10/2019 11:14:31 AM || BEEJEES Login
+7/10/2019 11:14:36 AM || Config Checker used
+7/10/2019 11:19:01 AM || BEEJEES Login
+7/10/2019 11:19:27 AM || BEEJEES Login
+7/10/2019 11:27:42 AM || BEEJEES Login
+7/12/2019 12:17:08 PM || BEEJEES Login
+7/12/2019 12:19:26 PM: BeejeesFleets generated - FleetsName: Island Ferries - 21 - PID: 832721c2-f721-4df6-a0d3-40b7a6315995
+7/12/2019 12:19:28 PM || BeejeesFleet created
+7/12/2019 12:19:50 PM: BeejeesFleets generated - FleetsName: Island Ferries - 22 - PID: bb757396-7bd8-42b0-8108-b98b8a4f368f
+7/12/2019 12:19:54 PM || BeejeesFleet created
+7/12/2019 12:20:41 PM || Terminal Created 
+7/12/2019 12:22:38 PM || BEEJEES Login
+7/12/2019 12:25:00 PM || BEEJEES Login
+7/12/2019 12:32:47 PM || Admin mode turned on 
+7/12/2019 12:33:20 PM || Terminal updated
+7/12/2019 12:33:32 PM || Terminal updated
+7/12/2019 12:35:19 PM || Terminal updated
+7/12/2019 12:51:43 PM || BEEJEES Login
+7/12/2019 12:52:23 PM || BEEJEES Login
+7/12/2019 12:53:18 PM || BEEJEES Login
+7/12/2019 12:53:42 PM || Admin mode turned on 
+7/12/2019 12:56:03 PM || Terminal updated
+7/12/2019 1:09:07 PM || BEEJEES Login
+7/12/2019 1:11:18 PM || System Parameters generated
+7/12/2019 1:11:47 PM || System Parameters generated
+7/12/2019 1:15:20 PM || Profile Parameters generated
+7/12/2019 1:16:26 PM || Profile Parameters generated
+7/12/2019 1:16:39 PM || Profile Parameters generated
+7/12/2019 1:31:52 PM || BEEJEES Login
+7/12/2019 1:34:33 PM || BEEJEES Login
+7/12/2019 1:36:16 PM || BEEJEES Login
+7/12/2019 1:47:44 PM || BEEJEES Login
+7/12/2019 1:50:39 PM || BEEJEES Login
+7/12/2019 1:51:06 PM || Admin mode turned on 
+7/12/2019 1:52:05 PM || BEEJEES Login
+7/12/2019 1:52:14 PM || Admin mode turned on 
+7/12/2019 1:52:34 PM || BEEJEES Login
+7/12/2019 2:00:04 PM || System Parameters generated
+7/12/2019 2:00:29 PM || System Parameters generated
+7/12/2019 2:06:31 PM || BEEJEES Login
+7/12/2019 2:06:59 PM || Profile Parameters generated
+7/12/2019 2:07:19 PM || Profile Parameters generated
+7/12/2019 2:07:39 PM || Profile Parameters generated
+7/12/2019 2:07:58 PM || Profile Parameters generated
+7/12/2019 2:08:15 PM || Profile Parameters generated
+7/12/2019 2:08:25 PM || Profile Parameters generated
+7/12/2019 2:08:55 PM || Profile Parameters generated
+7/12/2019 2:09:17 PM || Profile Parameters generated
+7/12/2019 2:09:35 PM || Profile Parameters generated
+7/12/2019 2:09:51 PM || Profile Parameters generated
+7/12/2019 2:10:02 PM || Profile Parameters generated
+7/12/2019 2:10:12 PM || Profile Parameters generated
+7/12/2019 2:10:25 PM || Profile Parameters generated
+7/12/2019 2:10:42 PM || Profile Parameters generated
+7/12/2019 2:11:03 PM || Profile Parameters generated
+7/12/2019 2:11:20 PM || Profile Parameters generated
+7/12/2019 2:11:34 PM || Profile Parameters generated
+7/12/2019 2:11:44 PM || Profile Parameters generated
+7/12/2019 2:11:56 PM || Profile Parameters generated
+7/12/2019 2:12:06 PM || Profile Parameters generated
+7/12/2019 2:12:20 PM || Profile Parameters generated
+7/12/2019 2:12:32 PM || Profile Parameters generated
+7/12/2019 2:12:50 PM || Profile Parameters generated
+7/12/2019 2:13:01 PM || Profile Parameters generated
+7/12/2019 2:13:11 PM || Profile Parameters generated
+7/12/2019 2:13:20 PM || Profile Parameters generated
+7/12/2019 2:13:36 PM || Profile Parameters generated
+7/12/2019 2:13:49 PM || Profile Parameters generated
+7/12/2019 2:13:59 PM || Profile Parameters generated
+7/12/2019 2:14:08 PM || Profile Parameters generated
+7/12/2019 2:14:45 PM || Profile Parameters generated
+7/12/2019 2:14:56 PM || Profile Parameters generated
+7/12/2019 2:15:07 PM || Profile Parameters generated
+7/12/2019 2:15:36 PM || Profile Parameters generated
+7/12/2019 2:16:07 PM || Profile Parameters generated
+7/12/2019 2:16:17 PM || Profile Parameters generated
+7/12/2019 2:16:29 PM || Profile Parameters generated
+7/12/2019 2:16:42 PM || Profile Parameters generated
+7/12/2019 2:16:52 PM || Profile Parameters generated
+7/12/2019 2:17:01 PM || Profile Parameters generated
+7/12/2019 2:17:20 PM || Profile Parameters generated
+7/12/2019 2:17:31 PM || Profile Parameters generated
+7/12/2019 2:20:35 PM || Admin mode turned on 
+7/12/2019 2:21:53 PM || BEEJEES Login
+7/12/2019 2:22:07 PM || System Parameters generated
+7/12/2019 2:22:22 PM || Admin mode turned on 
+7/12/2019 2:27:29 PM || BEEJEES Login
+7/12/2019 2:28:05 PM || BEEJEES Login
+7/12/2019 2:57:58 PM || BEEJEES Login
+7/12/2019 2:58:56 PM || BEEJEES Login
+7/12/2019 2:59:43 PM || BEEJEES Login
+7/12/2019 3:04:08 PM || BEEJEES Login
+7/12/2019 3:04:19 PM || BEEJEES Login
+7/12/2019 3:04:31 PM || BeejeesProfile updated
+7/12/2019 3:04:48 PM || Route Discount Fare Created
+7/12/2019 3:05:04 PM || Profile Route Created
+7/12/2019 3:05:13 PM || Profile Distance Based ID generated
+7/12/2019 3:05:26 PM || Profile Parameters generated
+7/12/2019 3:06:22 PM || BEEJEES Login
+7/12/2019 3:07:02 PM || BEEJEES Login
+7/12/2019 3:07:34 PM || BEEJEES Login
+7/12/2019 3:11:42 PM || BEEJEES Login
+7/12/2019 3:13:36 PM || BEEJEES Login
+7/30/2019 2:03:03 PM || BEEJEES Login
+7/30/2019 2:05:27 PM || BEEJEES Login
+7/30/2019 2:05:45 PM || Config Checker used
+7/30/2019 2:07:10 PM || BEEJEES Login
+7/30/2019 2:12:25 PM || BEEJEES Login
+7/30/2019 2:14:09 PM || BEEJEES Login
+8/6/2019 2:07:18 PM || BEEJEES Login
+8/6/2019 2:21:32 PM || BEEJEES Login
